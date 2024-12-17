@@ -30,7 +30,7 @@
     "@vue/devtools-kit": "workspace:^",
     "@vue/devtools-shared": "workspace:^",
     "mitt": "^3.0.1",
-    "nanoid": "^3.3.4",
+    "nanoid": "^3.3.8",
     "pathe": "^1.1.2",
     "vite-hot-client": "^0.2.3"
   },
